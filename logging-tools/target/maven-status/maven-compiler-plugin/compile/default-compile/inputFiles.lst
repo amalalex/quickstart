@@ -1,0 +1,8 @@
+/soft/workspace/quickstart/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/loggers/GreeterLogger.java
+/soft/workspace/quickstart/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/GreeterService.java
+/soft/workspace/quickstart/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/exceptions/LocaleInvalidException.java
+/soft/workspace/quickstart/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/messages/GreetingMessagesBundle.java
+/soft/workspace/quickstart/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/loggers/DateLogger.java
+/soft/workspace/quickstart/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/exceptions/GreeterExceptionBundle.java
+/soft/workspace/quickstart/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/DateService.java
+/soft/workspace/quickstart/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/exceptions/DateExceptionsBundle.java

@@ -1,0 +1,3 @@
+/soft/workspace/quickstart/wicket-ear/ejb/src/main/java/org/jboss/as/quickstarts/wicketEar/ejbjar/dao/ContactDao.java
+/soft/workspace/quickstart/wicket-ear/ejb/src/main/java/org/jboss/as/quickstarts/wicketEar/ejbjar/dao/ContactDaoBean.java
+/soft/workspace/quickstart/wicket-ear/ejb/src/main/java/org/jboss/as/quickstarts/wicketEar/ejbjar/model/Contact.java

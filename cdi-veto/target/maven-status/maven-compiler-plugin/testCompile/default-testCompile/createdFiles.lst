@@ -1,0 +1,3 @@
+org/jboss/as/quickstart/cdi/veto/test/InjectionWithVetoExtensionWithoutManagerTest.class
+org/jboss/as/quickstart/cdi/veto/test/InjectionWithoutVetoExtensionWithManagerTest.class
+org/jboss/as/quickstart/cdi/veto/test/InjectionWithVetoExtensionAndManagerTest.class

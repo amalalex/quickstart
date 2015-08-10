@@ -1,0 +1,7 @@
+/soft/workspace/quickstart/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/MockSetManager.java
+/soft/workspace/quickstart/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/SetServiceException.java
+/soft/workspace/quickstart/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/jaxws/SetServiceBAService.java
+/soft/workspace/quickstart/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/SetServiceBAImpl.java
+/soft/workspace/quickstart/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/jaxws/SetServiceBA.java
+/soft/workspace/quickstart/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/AlreadyInSetException.java
+/soft/workspace/quickstart/wsba-coordinator-completion-simple/src/main/java/org/jboss/as/quickstarts/wsba/coordinatorcompletion/simple/SetParticipantBA.java

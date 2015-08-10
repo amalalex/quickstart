@@ -1,0 +1,3 @@
+/soft/workspace/quickstart/cdi-veto/src/test/java/org/jboss/as/quickstart/cdi/veto/test/InjectionWithoutVetoExtensionWithManagerTest.java
+/soft/workspace/quickstart/cdi-veto/src/test/java/org/jboss/as/quickstart/cdi/veto/test/InjectionWithVetoExtensionWithoutManagerTest.java
+/soft/workspace/quickstart/cdi-veto/src/test/java/org/jboss/as/quickstart/cdi/veto/test/InjectionWithVetoExtensionAndManagerTest.java

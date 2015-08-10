@@ -1,0 +1,9 @@
+org/jboss/as/quickstarts/wicketWar/dao/ContactDaoBean.class
+org/jboss/as/quickstarts/wicketWar/dao/ContactDao.class
+org/jboss/as/quickstarts/wicketWar/WicketJavaEEApplication.class
+org/jboss/as/quickstarts/wicketWar/pages/ListContacts$1$1.class
+org/jboss/as/quickstarts/wicketWar/pages/ListContacts$1.class
+org/jboss/as/quickstarts/wicketWar/model/Contact.class
+org/jboss/as/quickstarts/wicketWar/pages/InsertContact.class
+org/jboss/as/quickstarts/wicketWar/pages/InsertContact$1.class
+org/jboss/as/quickstarts/wicketWar/pages/ListContacts.class

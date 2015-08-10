@@ -1,0 +1,6 @@
+org/jboss/as/quickstarts/datagrid/PutController.class
+org/jboss/as/quickstarts/datagrid/MyCacheManagerProvider.class
+org/jboss/as/quickstarts/datagrid/TestServletGet.class
+org/jboss/as/quickstarts/datagrid/Resources.class
+org/jboss/as/quickstarts/datagrid/GetController.class
+org/jboss/as/quickstarts/datagrid/TestServletPut.class

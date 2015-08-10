@@ -1,0 +1,6 @@
+org/jboss/as/quickstart/deltaspike/beanbuilder/util/Resources.class
+org/jboss/as/quickstart/deltaspike/beanbuilder/model/Person.class
+org/jboss/as/quickstart/deltaspike/beanbuilder/ByIdExtension.class
+org/jboss/as/quickstart/deltaspike/beanbuilder/PersonContextualLifecycle.class
+org/jboss/as/quickstart/deltaspike/beanbuilder/ById.class
+org/jboss/as/quickstart/deltaspike/beanbuilder/ByIdLiteral.class

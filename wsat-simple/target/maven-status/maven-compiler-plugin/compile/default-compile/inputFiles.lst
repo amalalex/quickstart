@@ -1,0 +1,7 @@
+/soft/workspace/quickstart/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/RestaurantServiceATImpl.java
+/soft/workspace/quickstart/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/RestaurantParticipant.java
+/soft/workspace/quickstart/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/jaxws/RestaurantServiceATService.java
+/soft/workspace/quickstart/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/RestaurantException.java
+/soft/workspace/quickstart/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/MockRestaurantManager.java
+/soft/workspace/quickstart/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/jaxws/RestaurantServiceAT.java
+/soft/workspace/quickstart/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/servlet/WSATSimpleServletClient.java

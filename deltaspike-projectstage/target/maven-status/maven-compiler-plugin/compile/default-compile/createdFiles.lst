@@ -1,0 +1,6 @@
+org/jboss/as/quickstarts/deltaspike/projectstage/bean/MessageProvider.class
+org/jboss/as/quickstarts/deltaspike/projectstage/util/Resources.class
+org/jboss/as/quickstarts/deltaspike/projectstage/bean/ExcludedOnDevelopment.class
+org/jboss/as/quickstarts/deltaspike/projectstage/bean/MyExcludedBean.class
+org/jboss/as/quickstarts/deltaspike/projectstage/bean/ExcludedExceptOnDevelopment.class
+org/jboss/as/quickstarts/deltaspike/projectstage/bean/NotExcludedBean.class

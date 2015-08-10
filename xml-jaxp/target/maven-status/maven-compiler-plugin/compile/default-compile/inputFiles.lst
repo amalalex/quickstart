@@ -1,0 +1,9 @@
+/soft/workspace/quickstart/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/Errors.java
+/soft/workspace/quickstart/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/XMLParser.java
+/soft/workspace/quickstart/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/Book.java
+/soft/workspace/quickstart/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/Resources.java
+/soft/workspace/quickstart/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/Error.java
+/soft/workspace/quickstart/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/DOMXMLParser.java
+/soft/workspace/quickstart/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/SAXXMLParser.java
+/soft/workspace/quickstart/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/upload/FileUploadBean.java
+/soft/workspace/quickstart/xml-jaxp/src/main/java/org/jboss/as/quickstart/xml/upload/FileUploadServlet.java

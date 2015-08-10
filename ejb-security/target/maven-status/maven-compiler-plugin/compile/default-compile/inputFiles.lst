@@ -1,0 +1,4 @@
+/soft/workspace/quickstart/ejb-security/src/main/java/org/jboss/as/quickstarts/ejb_security/SecuredEJBServlet.java
+/soft/workspace/quickstart/ejb-security/src/main/java/org/jboss/as/quickstarts/ejb_security/SecuredEJB.java
+/soft/workspace/quickstart/ejb-security/src/main/java/org/jboss/as/quickstarts/ejb_security/RemoteClient.java
+/soft/workspace/quickstart/ejb-security/src/main/java/org/jboss/as/quickstarts/ejb_security/SecuredRemote.java

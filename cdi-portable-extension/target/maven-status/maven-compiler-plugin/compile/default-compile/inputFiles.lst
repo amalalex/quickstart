@@ -1,0 +1,6 @@
+/soft/workspace/quickstart/cdi-portable-extension/src/main/java/org/jboss/as/quickstart/cdi/extension/CreatureExtension.java
+/soft/workspace/quickstart/cdi-portable-extension/src/main/java/org/jboss/as/quickstart/cdi/extension/model/NonPlayerCharacter.java
+/soft/workspace/quickstart/cdi-portable-extension/src/main/java/org/jboss/as/quickstart/cdi/extension/XmlBackedWrappedInjectionTarget.java
+/soft/workspace/quickstart/cdi-portable-extension/src/main/java/org/jboss/as/quickstart/cdi/extension/model/CreatureType.java
+/soft/workspace/quickstart/cdi-portable-extension/src/main/java/org/jboss/as/quickstart/cdi/extension/model/Creature.java
+/soft/workspace/quickstart/cdi-portable-extension/src/main/java/org/jboss/as/quickstart/cdi/extension/model/Monster.java

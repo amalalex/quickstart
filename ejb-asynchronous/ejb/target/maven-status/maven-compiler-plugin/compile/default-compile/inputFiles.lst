@@ -1,0 +1,5 @@
+/soft/workspace/quickstart/ejb-asynchronous/ejb/src/main/java/org/jboss/as/quickstarts/ejb/asynchronous/AsynchronousAccess.java
+/soft/workspace/quickstart/ejb-asynchronous/ejb/src/main/java/org/jboss/as/quickstarts/ejb/asynchronous/ParallelAccess.java
+/soft/workspace/quickstart/ejb-asynchronous/ejb/src/main/java/org/jboss/as/quickstarts/ejb/asynchronous/AnotherAsynchronousAccess.java
+/soft/workspace/quickstart/ejb-asynchronous/ejb/src/main/java/org/jboss/as/quickstarts/ejb/asynchronous/ParallelAccessBean.java
+/soft/workspace/quickstart/ejb-asynchronous/ejb/src/main/java/org/jboss/as/quickstarts/ejb/asynchronous/AsynchronousAccessBean.java

@@ -1,0 +1,6 @@
+org/jboss/as/quickstart/cdi/extension/XmlBackedWrappedInjectionTarget.class
+org/jboss/as/quickstart/cdi/extension/model/Monster.class
+org/jboss/as/quickstart/cdi/extension/model/NonPlayerCharacter.class
+org/jboss/as/quickstart/cdi/extension/CreatureExtension.class
+org/jboss/as/quickstart/cdi/extension/model/Creature.class
+org/jboss/as/quickstart/cdi/extension/model/CreatureType.class

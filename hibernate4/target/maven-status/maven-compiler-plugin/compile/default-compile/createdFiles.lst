@@ -1,0 +1,6 @@
+org/jboss/as/quickstart/hibernate4/util/Resources.class
+org/jboss/as/quickstart/hibernate4/controller/MemberController.class
+org/jboss/as/quickstart/hibernate4/data/MemberRepository.class
+org/jboss/as/quickstart/hibernate4/service/MemberRegistration.class
+org/jboss/as/quickstart/hibernate4/data/MemberListProducer.class
+org/jboss/as/quickstart/hibernate4/model/Member.class

@@ -1,0 +1,9 @@
+/soft/workspace/quickstart/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/events/PaymentEvent.java
+/soft/workspace/quickstart/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/handler/ICreditEventObserver.java
+/soft/workspace/quickstart/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/handler/PaymentHandler.java
+/soft/workspace/quickstart/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/events/PaymentTypeEnum.java
+/soft/workspace/quickstart/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/resources/Resources.java
+/soft/workspace/quickstart/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/handler/IDebitEventObserver.java
+/soft/workspace/quickstart/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/beans/PaymentBean.java
+/soft/workspace/quickstart/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/qualifiers/Credit.java
+/soft/workspace/quickstart/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/qualifiers/Debit.java

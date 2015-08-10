@@ -1,0 +1,6 @@
+/soft/workspace/quickstart/helloworld-jdg/src/main/java/org/jboss/as/quickstarts/datagrid/Resources.java
+/soft/workspace/quickstart/helloworld-jdg/src/main/java/org/jboss/as/quickstarts/datagrid/MyCacheManagerProvider.java
+/soft/workspace/quickstart/helloworld-jdg/src/main/java/org/jboss/as/quickstarts/datagrid/PutController.java
+/soft/workspace/quickstart/helloworld-jdg/src/main/java/org/jboss/as/quickstarts/datagrid/TestServletPut.java
+/soft/workspace/quickstart/helloworld-jdg/src/main/java/org/jboss/as/quickstarts/datagrid/GetController.java
+/soft/workspace/quickstart/helloworld-jdg/src/main/java/org/jboss/as/quickstarts/datagrid/TestServletGet.java

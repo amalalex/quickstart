@@ -1,0 +1,7 @@
+/soft/workspace/quickstart/hibernate3/src/main/java/org/jboss/as/quickstart/hibernate3/util/ValidateMemberId.java
+/soft/workspace/quickstart/hibernate3/src/main/java/org/jboss/as/quickstart/hibernate3/util/Resources.java
+/soft/workspace/quickstart/hibernate3/src/main/java/org/jboss/as/quickstart/hibernate3/controller/MemberRegistration.java
+/soft/workspace/quickstart/hibernate3/src/main/java/org/jboss/as/quickstart/hibernate3/util/ValidateEmail.java
+/soft/workspace/quickstart/hibernate3/src/main/java/org/jboss/as/quickstart/hibernate3/data/MemberListProducer.java
+/soft/workspace/quickstart/hibernate3/src/main/java/org/jboss/as/quickstart/hibernate3/util/ValidateName.java
+/soft/workspace/quickstart/hibernate3/src/main/java/org/jboss/as/quickstart/hibernate3/model/Member.java

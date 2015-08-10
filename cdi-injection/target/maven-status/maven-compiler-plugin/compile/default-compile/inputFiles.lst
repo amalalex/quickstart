@@ -1,0 +1,6 @@
+/soft/workspace/quickstart/cdi-injection/src/main/java/org/jboss/as/quickstarts/cdi/injection/qualifier/Spanish.java
+/soft/workspace/quickstart/cdi-injection/src/main/java/org/jboss/as/quickstarts/cdi/injection/EnglishTranslateService.java
+/soft/workspace/quickstart/cdi-injection/src/main/java/org/jboss/as/quickstarts/cdi/injection/TranslateService.java
+/soft/workspace/quickstart/cdi-injection/src/main/java/org/jboss/as/quickstarts/cdi/injection/SpanishTranslateService.java
+/soft/workspace/quickstart/cdi-injection/src/main/java/org/jboss/as/quickstarts/cdi/injection/qualifier/English.java
+/soft/workspace/quickstart/cdi-injection/src/main/java/org/jboss/as/quickstarts/cdi/injection/backing/TranslationBackingBean.java

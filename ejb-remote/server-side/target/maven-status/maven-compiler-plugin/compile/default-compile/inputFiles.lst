@@ -1,0 +1,4 @@
+/soft/workspace/quickstart/ejb-remote/server-side/src/main/java/org/jboss/as/quickstarts/ejb/remote/stateful/RemoteCounter.java
+/soft/workspace/quickstart/ejb-remote/server-side/src/main/java/org/jboss/as/quickstarts/ejb/remote/stateless/RemoteCalculator.java
+/soft/workspace/quickstart/ejb-remote/server-side/src/main/java/org/jboss/as/quickstarts/ejb/remote/stateless/CalculatorBean.java
+/soft/workspace/quickstart/ejb-remote/server-side/src/main/java/org/jboss/as/quickstarts/ejb/remote/stateful/CounterBean.java

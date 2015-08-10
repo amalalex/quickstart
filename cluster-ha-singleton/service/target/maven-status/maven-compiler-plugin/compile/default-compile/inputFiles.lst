@@ -1,0 +1,7 @@
+/soft/workspace/quickstart/cluster-ha-singleton/service/src/main/java/org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/SchedulerBean.java
+/soft/workspace/quickstart/cluster-ha-singleton/service/src/main/java/org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/Scheduler.java
+/soft/workspace/quickstart/cluster-ha-singleton/service/src/main/java/org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/ServiceAccessBean.java
+/soft/workspace/quickstart/cluster-ha-singleton/service/src/main/java/org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/Environment.java
+/soft/workspace/quickstart/cluster-ha-singleton/service/src/main/java/org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/HATimerService.java
+/soft/workspace/quickstart/cluster-ha-singleton/service/src/main/java/org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/ServiceAccess.java
+/soft/workspace/quickstart/cluster-ha-singleton/service/src/main/java/org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/HATimerServiceActivator.java

@@ -1,0 +1,11 @@
+/soft/workspace/quickstart/ejb-security-interceptors/src/main/java/org/jboss/as/quickstarts/ejb_security_interceptors/IntermediateEJBRemote.java
+/soft/workspace/quickstart/ejb-security-interceptors/src/main/java/org/jboss/as/quickstarts/ejb_security_interceptors/DelegationLoginModule.java
+/soft/workspace/quickstart/ejb-security-interceptors/src/main/java/org/jboss/as/quickstarts/ejb_security_interceptors/OuterUserCredential.java
+/soft/workspace/quickstart/ejb-security-interceptors/src/main/java/org/jboss/as/quickstarts/ejb_security_interceptors/RemoteClient.java
+/soft/workspace/quickstart/ejb-security-interceptors/src/main/java/org/jboss/as/quickstarts/ejb_security_interceptors/ServerSecurityInterceptor.java
+/soft/workspace/quickstart/ejb-security-interceptors/src/main/java/org/jboss/as/quickstarts/ejb_security_interceptors/ClientSecurityInterceptor.java
+/soft/workspace/quickstart/ejb-security-interceptors/src/main/java/org/jboss/as/quickstarts/ejb_security_interceptors/SecurityActions.java
+/soft/workspace/quickstart/ejb-security-interceptors/src/main/java/org/jboss/as/quickstarts/ejb_security_interceptors/EJBUtil.java
+/soft/workspace/quickstart/ejb-security-interceptors/src/main/java/org/jboss/as/quickstarts/ejb_security_interceptors/IntermediateEJB.java
+/soft/workspace/quickstart/ejb-security-interceptors/src/main/java/org/jboss/as/quickstarts/ejb_security_interceptors/SecuredEJBRemote.java
+/soft/workspace/quickstart/ejb-security-interceptors/src/main/java/org/jboss/as/quickstarts/ejb_security_interceptors/SecuredEJB.java

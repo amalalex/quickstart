@@ -1,0 +1,4 @@
+/soft/workspace/quickstart/kitchensink-ear/wildfly-kitchensink-ear-web/src/main/java/org/jboss/as/quickstarts/kitchensink_ear/controller/MemberController.java
+/soft/workspace/quickstart/kitchensink-ear/wildfly-kitchensink-ear-web/src/main/java/org/jboss/as/quickstarts/kitchensink_ear/util/WebResources.java
+/soft/workspace/quickstart/kitchensink-ear/wildfly-kitchensink-ear-web/src/main/java/org/jboss/as/quickstarts/kitchensink_ear/rest/JaxRsActivator.java
+/soft/workspace/quickstart/kitchensink-ear/wildfly-kitchensink-ear-web/src/main/java/org/jboss/as/quickstarts/kitchensink_ear/rest/MemberResourceRESTService.java

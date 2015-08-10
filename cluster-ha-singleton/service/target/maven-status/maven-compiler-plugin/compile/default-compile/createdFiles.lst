@@ -1,0 +1,7 @@
+org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/HATimerService.class
+org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/ServiceAccessBean.class
+org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/Scheduler.class
+org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/HATimerServiceActivator.class
+org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/SchedulerBean.class
+org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/Environment.class
+org/jboss/as/quickstarts/cluster/hasingleton/service/ejb/ServiceAccess.class

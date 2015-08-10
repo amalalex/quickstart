@@ -1,0 +1,4 @@
+org/jboss/as/quickstart/cdi/veto/EntityManagerProducer.class
+org/jboss/as/quickstart/cdi/veto/VetoExtension.class
+org/jboss/as/quickstart/cdi/veto/model/Car.class
+org/jboss/as/quickstart/cdi/veto/CarManager.class

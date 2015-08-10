@@ -1,0 +1,5 @@
+/soft/workspace/quickstart/deltaspike-authorization/src/main/java/org/jboss/as/quickstarts/deltaspike/authorization/CustomAuthorizer.java
+/soft/workspace/quickstart/deltaspike-authorization/src/main/java/org/jboss/as/quickstarts/deltaspike/authorization/util/Resources.java
+/soft/workspace/quickstart/deltaspike-authorization/src/main/java/org/jboss/as/quickstarts/deltaspike/authorization/AdminAllowed.java
+/soft/workspace/quickstart/deltaspike-authorization/src/main/java/org/jboss/as/quickstarts/deltaspike/authorization/EmployeeAllowed.java
+/soft/workspace/quickstart/deltaspike-authorization/src/main/java/org/jboss/as/quickstarts/deltaspike/authorization/Controller.java

@@ -1,0 +1,7 @@
+/soft/workspace/quickstart/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/servlet/MemberRegistrationServlet.java
+/soft/workspace/quickstart/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/rest/MemberResourceRESTService.java
+/soft/workspace/quickstart/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/rest/JaxRsActivator.java
+/soft/workspace/quickstart/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/controller/MemberRegistration.java
+/soft/workspace/quickstart/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/model/Member.java
+/soft/workspace/quickstart/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/util/Resources.java
+/soft/workspace/quickstart/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/data/MemberListProducer.java

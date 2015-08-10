@@ -1,0 +1,6 @@
+/soft/workspace/quickstart/wicket-war/src/main/java/org/jboss/as/quickstarts/wicketWar/pages/ListContacts.java
+/soft/workspace/quickstart/wicket-war/src/main/java/org/jboss/as/quickstarts/wicketWar/WicketJavaEEApplication.java
+/soft/workspace/quickstart/wicket-war/src/main/java/org/jboss/as/quickstarts/wicketWar/dao/ContactDao.java
+/soft/workspace/quickstart/wicket-war/src/main/java/org/jboss/as/quickstarts/wicketWar/model/Contact.java
+/soft/workspace/quickstart/wicket-war/src/main/java/org/jboss/as/quickstarts/wicketWar/dao/ContactDaoBean.java
+/soft/workspace/quickstart/wicket-war/src/main/java/org/jboss/as/quickstarts/wicketWar/pages/InsertContact.java

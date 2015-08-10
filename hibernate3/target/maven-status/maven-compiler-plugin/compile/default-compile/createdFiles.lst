@@ -1,0 +1,7 @@
+org/jboss/as/quickstart/hibernate3/util/ValidateName.class
+org/jboss/as/quickstart/hibernate3/controller/MemberRegistration.class
+org/jboss/as/quickstart/hibernate3/util/ValidateMemberId.class
+org/jboss/as/quickstart/hibernate3/model/Member.class
+org/jboss/as/quickstart/hibernate3/data/MemberListProducer.class
+org/jboss/as/quickstart/hibernate3/util/ValidateEmail.class
+org/jboss/as/quickstart/hibernate3/util/Resources.class

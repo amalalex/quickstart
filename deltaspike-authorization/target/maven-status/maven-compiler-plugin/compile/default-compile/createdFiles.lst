@@ -1,0 +1,5 @@
+org/jboss/as/quickstarts/deltaspike/authorization/util/Resources.class
+org/jboss/as/quickstarts/deltaspike/authorization/EmployeeAllowed.class
+org/jboss/as/quickstarts/deltaspike/authorization/CustomAuthorizer.class
+org/jboss/as/quickstarts/deltaspike/authorization/Controller.class
+org/jboss/as/quickstarts/deltaspike/authorization/AdminAllowed.class

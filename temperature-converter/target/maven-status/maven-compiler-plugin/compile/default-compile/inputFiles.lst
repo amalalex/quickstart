@@ -1,0 +1,5 @@
+/soft/workspace/quickstart/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/ejb/Temperature.java
+/soft/workspace/quickstart/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/ejb/TemperatureConvertEJB.java
+/soft/workspace/quickstart/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/controller/ScaleConverter.java
+/soft/workspace/quickstart/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/ejb/Scale.java
+/soft/workspace/quickstart/temperature-converter/src/main/java/org/jboss/as/quickstarts/temperatureconverter/controller/TemperatureConverter.java

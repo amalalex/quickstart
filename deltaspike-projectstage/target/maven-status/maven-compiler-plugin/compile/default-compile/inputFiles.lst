@@ -1,0 +1,6 @@
+/soft/workspace/quickstart/deltaspike-projectstage/src/main/java/org/jboss/as/quickstarts/deltaspike/projectstage/bean/MyExcludedBean.java
+/soft/workspace/quickstart/deltaspike-projectstage/src/main/java/org/jboss/as/quickstarts/deltaspike/projectstage/util/Resources.java
+/soft/workspace/quickstart/deltaspike-projectstage/src/main/java/org/jboss/as/quickstarts/deltaspike/projectstage/bean/NotExcludedBean.java
+/soft/workspace/quickstart/deltaspike-projectstage/src/main/java/org/jboss/as/quickstarts/deltaspike/projectstage/bean/ExcludedOnDevelopment.java
+/soft/workspace/quickstart/deltaspike-projectstage/src/main/java/org/jboss/as/quickstarts/deltaspike/projectstage/bean/MessageProvider.java
+/soft/workspace/quickstart/deltaspike-projectstage/src/main/java/org/jboss/as/quickstarts/deltaspike/projectstage/bean/ExcludedExceptOnDevelopment.java

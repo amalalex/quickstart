@@ -1,0 +1,7 @@
+/soft/workspace/quickstart/greeter/src/main/java/org/jboss/as/quickstarts/greeter/domain/ManagedBeanUserDao.java
+/soft/workspace/quickstart/greeter/src/main/java/org/jboss/as/quickstarts/greeter/Resources.java
+/soft/workspace/quickstart/greeter/src/main/java/org/jboss/as/quickstarts/greeter/web/GreetController.java
+/soft/workspace/quickstart/greeter/src/main/java/org/jboss/as/quickstarts/greeter/web/CreateController.java
+/soft/workspace/quickstart/greeter/src/main/java/org/jboss/as/quickstarts/greeter/domain/EJBUserDao.java
+/soft/workspace/quickstart/greeter/src/main/java/org/jboss/as/quickstarts/greeter/domain/User.java
+/soft/workspace/quickstart/greeter/src/main/java/org/jboss/as/quickstarts/greeter/domain/UserDao.java
